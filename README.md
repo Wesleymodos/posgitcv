@@ -81,4 +81,27 @@ Administrar servidores Windows Servers 2008 – 2012 – 2016 e Servidores linux
 cliente via sistema de chamado do inicio do problemas ate a solução dos problemas, Atendimento externo de
 Cliente, instalação de S.O e manutenção em Hardware, Suporte ao ERP sistema Facil.
 
+Conhecimentos:
+--------------------------------------------------------------------------------------------------------
+Analista de Suporte Nível 1, 2 e 3 profissionais de TI com 7 anos de experiência. Domínio pleno em
+administração de Servidores Windows e Linux. Configuração e instalação de sistemas operacionasis
+Linux e Windows.
+Conhecimento sênior na área de hardware dos tipos workstation incluindo desktops e Notebook corporativos
+(Dell, Lenovo, HP), impressoras dos tipos multifuncionais e corporativas (Kyocera, Ricoh, Samsung, HP,
+Lexmark, Okidata e Sharp)
+Sistema de ERP Microsiga Protheus 10, ERP Sankhya, ERP Facil.
+
+Processo e rotinas de migrações de domínio corporativo. Configurações de Roteadores (Cisco System, D-
+link e Cyclades). Configuração e administração de Active Directory (AD),. Conhecimentos Plenos em todas
+
+as versões do Windows. Conhecimento em implantação, análise, processos, negócio e produto de serviços em
+ITIL V3.Processos e rotinas internas de auditaria de Governança de TI.
+Conhecimento amplo com as ferramentas de acesso remoto Virtual Private Network (VPN), Virtual
+Network Computing (VNC), Terminal Service (TS), TeamViewer, Dame Ware e LogMeIn. E conhecimento em
+virtualização de maquinas (VMWare).
+
+- Sistema SYSAID, onde atuei como administrador da ferramenta editando as permissões e controlando
+as licenças e os acessos dos usuários finais. - Sistema SDM, onde atuei como agente da ferramenta em
+fechamentos e encaminhamentos dos incidentes e requisições de serviços de T.I.
+
 
