@@ -122,6 +122,16 @@ SYSAID TCI: Implantação da ferramenta na corporação a fim de substituir a an
 que era acessada em aplicação de client por um acesso via web com base em ITIL V3. Migração dos antigos
 incidentes e requisições de serviço da antiga ferramenta para o SYSAID.
 
+Redes Sociais 
+--------------------------------------------------------------------------------------------------------
+*GITHUB
+https://github.com/Wesleymodos/
+
+*FACEBOOK 
+https://www.facebook.com/wdkwesmod
+
+*INSTAGRAM
+https://www.instagram.com/wesleymodos/
 
 
 
