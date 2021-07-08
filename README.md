@@ -104,4 +104,24 @@ virtualização de maquinas (VMWare).
 as licenças e os acessos dos usuários finais. - Sistema SDM, onde atuei como agente da ferramenta em
 fechamentos e encaminhamentos dos incidentes e requisições de serviços de T.I.
 
+Projetos Pessoais
+--------------------------------------------------------------------------------------------------------
+* Site , Colégio 
+* Sistema Redaçaõ 
+* Sistema Prova 
+* Sistema de Vendas de Cursos 
+
+TCI Nas Nuvens – Novo Domínio: Participei da migração de domínio em 34 sites da empresa Grupo TCI
+Business Process Outsourcing onde foi centralizado todos os serviços de Active Directory em um Servidor
+Central onde foi configurado o serviço LDAP para integrar outras ferramentas da empresa. Ministrei
+treinamento para colaboradores da empresa Build Up que faz parte do Grupo TCI Business Process
+Outsourcing referente ao novo domínio de e-mailGoogle APPS onde este serviço de e-mail foi integrado com
+o novo domínio da corporação.
+
+SYSAID TCI: Implantação da ferramenta na corporação a fim de substituir a antiga ferramenta de chamados
+que era acessada em aplicação de client por um acesso via web com base em ITIL V3. Migração dos antigos
+incidentes e requisições de serviço da antiga ferramenta para o SYSAID.
+
+
+
 
